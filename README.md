@@ -3,7 +3,6 @@
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zeadrianojr/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeadrianojr&hide=stars,prs&show_icons=true&theme=dracula)
 
 ## Tecnologias do meu cotidiano
 <div style="display: inline_block">
@@ -17,6 +16,7 @@ Apaixonado por códigos que transformam o mundo 🌎
 ## Ferramentas
 <div style="display: inline_block">
     <img align="center" alt="pop os" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+    <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
