@@ -1,8 +1,5 @@
 ## 🙋‍♂️Olá! Meu nome é José Adriano Junior✨
 
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zeadrianojr/)
-
-
 
 ## Tecnologias do meu cotidiano
 <div style="display: inline_block">
